@@ -14,3 +14,7 @@ if st.sidebar.checkbox("Mostrar todos los filmes"):
     st.subheader("Todos los filmes")
     st.write(f"Total filmes: {len(movies_data)}")
     st.dataframe(movies_data)
+
+if st.sidebare.selectbox("Seleccionar por director") 
+    resultado = 
+       
